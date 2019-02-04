@@ -14,6 +14,6 @@ split the data frame into test and train data set\
 compute average rating for both test and train data\
 select the required features and run regression\
 compute RMSE of different regressions with and without context variables\
-verify the significance\
+verify the significance
 # Outcome
-Check whether contextual variables aid in better predicting the ratings\
+Check whether contextual variables aid in better predicting the ratings
