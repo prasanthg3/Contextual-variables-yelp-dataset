@@ -12,8 +12,8 @@ extract and clean the reviews text from data set\
 generate a data frame by computing scores of each review with all context variables\
 split the data frame into test and train data set\
 compute average rating for both test and train data\
-select the required features and run regression\
-compute RMSE of different regressions with and without context variables\
+select the required features and run Random Forest regression\
+compute RMSE of different Random Forest regressions with and without context variables\
 verify the significance
 # Outcome
 Check whether contextual variables aid in better predicting the ratings
